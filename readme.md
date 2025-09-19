@@ -34,6 +34,6 @@ super-contador/
 
 ## Para acessar o projeto completo:
 
-[Clique aqui ()]
+[Clique aqui](https://super-contador-rho.vercel.app/)
 
-Este projeto está aberto para uso pessoal e educacional.
+Este projeto está aberto para uso educacional.
